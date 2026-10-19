@@ -24,7 +24,7 @@ pip install vosk fuzzywuzzy
 
 > **Nota sobre Vosk:** no existe wheel oficial para la Python de Android. Si
 > `pip install vosk` falla, usa un entorno Linux real con
-> [proot-distro](https://github.com/termux/proot-distro) (p. ej. Ubuntu), donde
+> [proot-distro](https://github.com/juansn16/sistema-T.git) (p. ej. Ubuntu), donde
 > `vosk` instala sin problema; esta versión funciona igual dentro de proot.
 
 ## Copiar el proyecto
