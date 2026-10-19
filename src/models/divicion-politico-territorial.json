@@ -1,0 +1,221 @@
+{
+    "entidad": "Zulia",
+    "codigo": "23",
+    "municipios": {
+        "01": {
+            "nombre": "Almirante Padilla",
+            "parroquias": {
+                "01": "Isla de Toas",
+                "02": "Monagas"
+            }
+        },
+        "02": {
+            "nombre": "Baralt",
+            "parroquias": {
+                "01": "San Timoteo",
+                "02": "General Urdaneta",
+                "03": "Libertador",
+                "04": "Manuel Guanipa Matos",
+                "05": "Marcelino Briceño",
+                "06": "Pueblo Nuevo"
+            }
+        },
+        "03": {
+            "nombre": "Cabimas",
+            "parroquias": {
+                "01": "Ambrosio",
+                "02": "Carmen Herrera",
+                "03": "Germán Ríos Linares",
+                "04": "La Rosa",
+                "05": "Jorge Hernández",
+                "06": "Rómulo Betancourt",
+                "07": "San Benito",
+                "08": "Arístides Calvani",
+                "09": "Punta Gorda"
+            }
+        },
+        "04": {
+            "nombre": "Catatumbo",
+            "parroquias": {
+                "01": "Encontrados",
+                "02": "Udón Pérez"
+            }
+        },
+        "05": {
+            "nombre": "Colón",
+            "parroquias": {
+                "01": "San Carlos del Zulia",
+                "02": "Moralito",
+                "03": "Santa Bárbara del Zulia",
+                "04": "Santa Cruz del Zulia",
+                "05": "Urribarrí"
+            }
+        },
+        "06": {
+            "nombre": "Francisco Javier Pulgar",
+            "parroquias": {
+                "01": "Simón Rodríguez",
+                "02": "Carlos Quevedo",
+                "03": "Francisco Javier Pulgar",
+                "04": "Agustín Codazzi"
+            }
+        },
+        "07": {
+            "nombre": "Jesús Enrique Lossada",
+            "parroquias": {
+                "01": "La Concepción",
+                "02": "José Ramón Yépez",
+                "03": "Mariano Parra León",
+                "04": "San José"
+            }
+        },
+        "08": {
+            "nombre": "Jesús María Semprún",
+            "parroquias": {
+                "01": "Jesús María Semprún",
+                "02": "Barí"
+            }
+        },
+        "09": {
+            "nombre": "Cañada de Urdaneta",
+            "parroquias": {
+                "01": "Concepción",
+                "02": "Andrés Bello",
+                "03": "Chiquinquirá",
+                "04": "El Carmelo",
+                "05": "Potreritos"
+            }
+        },
+        "10": {
+            "nombre": "Lagunillas",
+            "parroquias": {
+                "01": "Alonso de Ojeda",
+                "02": "Libertad",
+                "03": "Campo Lara",
+                "04": "Eleazar López Contreras",
+                "05": "Venezuela",
+                "06": "El Danto"
+            }
+        },
+        "11": {
+            "nombre": "Machiques de Perijá",
+            "parroquias": {
+                "01": "Libertad",
+                "02": "Bartolomé de las Casas",
+                "03": "Río Negro",
+                "04": "San José de Perijá"
+            }
+        },
+        "12": {
+            "nombre": "Mara",
+            "parroquias": {
+                "01": "San Rafael del Moján",
+                "02": "La Sierrita",
+                "03": "Las Parcelas",
+                "04": "Luis de Vicente",
+                "05": "Monseñor Marcos Sergio Godoy",
+                "06": "Ricaurte",
+                "07": "Tamare"
+            }
+        },
+        "13": {
+            "nombre": "Maracaibo",
+            "parroquias": {
+                "01": "Antonio Borjas Romero",
+                "02": "Bolívar",
+                "03": "Cacique Mara",
+                "04": "Caracciolo Parra Pérez",
+                "05": "Cecilio Acosta",
+                "06": "Cristo de Aranza",
+                "07": "Coquivacoa",
+                "08": "Chiquinquirá",
+                "09": "Francisco Eugenio Bustamante",
+                "10": "Idelfonso Vásquez",
+                "11": "Juana de Ávila",
+                "12": "Luis Hurtado Higuera",
+                "13": "Manuel Dagnino",
+                "14": "Olegario Villalobos",
+                "15": "Raúl Leoni",
+                "16": "Santa Lucía",
+                "17": "Venancio Pulgar",
+                "18": "San Isidro"
+            }
+        },
+        "14": {
+            "nombre": "Miranda",
+            "parroquias": {
+                "01": "Altagracia",
+                "02": "Ana María Campos",
+                "03": "Faría",
+                "04": "San Antonio",
+                "05": "San José",
+                "06": "José Antonio Chaves"
+            }
+        },
+        "15": {
+            "nombre": "Indígena Bolivariano Guajira",
+            "parroquias": {
+                "01": "Sinamaica",
+                "02": "Alta Guajira",
+                "03": "Elías Sánchez Rubio",
+                "04": "Guajira"
+            }
+        },
+        "16": {
+            "nombre": "Rosario de Perijá",
+            "parroquias": {
+                "01": "El Rosario",
+                "02": "Donaldo García",
+                "03": "Sixto Zambrano"
+            }
+        },
+        "17": {
+            "nombre": "San Francisco",
+            "parroquias": {
+                "01": "San Francisco",
+                "02": "El Bajo",
+                "03": "Domitila Flores",
+                "04": "Francisco Ochoa",
+                "05": "Los Cortijos",
+                "06": "Marcial Hernández",
+                "07": "José Domingo Rus"
+            }
+        },
+        "18": {
+            "nombre": "Santa Rita",
+            "parroquias": {
+                "01": "Santa Rita",
+                "02": "El Mene",
+                "03": "José Cenovio Urribarrí",
+                "04": "Pedro Lucas Urribarrí"
+            }
+        },
+        "19": {
+            "nombre": "Simón Bolívar",
+            "parroquias": {
+                "01": "Manuel Manrique",
+                "02": "Rafael María Baralt",
+                "03": "Rafael Urdaneta"
+            }
+        },
+        "20": {
+            "nombre": "Sucre",
+            "parroquias": {
+                "01": "Bobures",
+                "02": "El Batey",
+                "03": "Gibraltar",
+                "04": "Heras",
+                "05": "Monseñor Arturo Celestino Álvarez",
+                "06": "Rómulo Gallegos"
+            }
+        },
+        "21": {
+            "nombre": "Valmore Rodríguez",
+            "parroquias": {
+                "01": "La Victoria",
+                "02": "Rafael Urdaneta",
+                "03": "Raúl Cuenca"
+            }
+        }
+    }
+}

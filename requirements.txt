@@ -1,0 +1,10 @@
+vosk==0.3.45
+requests==2.34.2
+cffi==2.1.1
+PyAudio==0.2.14
+noisereduce==3.0.2
+numpy==1.26.4
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.25.1
+pyautogui==0.9.54
+pynput==1.7.6
